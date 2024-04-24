@@ -11,6 +11,7 @@
 ⚡ [Recipe Website](https://github.com/yuxiaomi666/recipe): Full-stack recipe app that provides a community for food lovers share their own recipes<br>
 
 🔎 **Some of the Assignments and labs that I have completed for courses including:**
+
 🌱 [Some Andriod apps](https://github.com/yuxiaomi666/AND101)<br>
 🌱 [Some Python Games](https://github.khoury.northeastern.edu/CS-5001-SEA-Spring2023/student-YaxinYu)<br>
 🌱 [OOD(Java) labs](https://github.khoury.northeastern.edu/CS5004-Summer2023/Student_repo_Yaxin_Yu)<br>
