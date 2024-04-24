@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Yaxin
+
+😊 Welcome to my github page.
+
+🔎 **Some of the Personal Projects You can Find:**
+
+🔎 **Some of the Assignments and labs that I have completed for courses including:**
+Some Python Games: https://github.khoury.northeastern.edu/CS-5001-SEA-Spring2023/student-YaxinYu
+
 
 <!--
 **yuxiaomi666/yuxiaomi666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
